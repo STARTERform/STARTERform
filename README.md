@@ -2,7 +2,7 @@
 
 Am so goood
 ## My stats
-[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=STARTERform&show_icons=true&theme=dark)](https://github.com/ccaven/github-readme-stats)
+[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=STARTERform&show_icons=true&theme=dark)](https://github.com/STARTERform)
 
 ## languages
 
